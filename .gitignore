@@ -1,0 +1,3 @@
+# ignore dot_env
+.env
+
