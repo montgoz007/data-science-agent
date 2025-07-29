@@ -3,3 +3,10 @@
 
 # ignore data
 data/
+
+# ignore test bits
+pytest.ini
+.coverage
+__pycache__/
+*.py[cod]
+*.pyo
